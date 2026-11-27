@@ -90,7 +90,7 @@ travel-agency-sql/
 ├── python/         # graficos.ipynb
 ├── data/           # CSV de resultados de las consultas
 ├── graficas/       # 14 gráficos en PNG
-└── presentacion/   # Del_dato_al_destino_Proyecto_SQL.pdf
+└── presentación/   # Del_dato_al_destino_Proyecto_SQL.pdf
 ```
 
 ## Enlaces
