@@ -42,7 +42,7 @@ Todas las tablas se relacionan a través de `bookings`: `customer_id` la une con
 
 ## Metodología
 
-1. **Planificación:** organizamos las tareas y el reparto del trabajo en un [tablero Kanban de Trello](https://trello.com/invite/b/6b017cabdd6e8466bd2f83de/ATTI06f967975783e95de0447629a48f2d268FE7B5A1/proyecto-sql-agencia-de-viajes).
+1. **Planificación:** organizamos las tareas y el reparto del trabajo en un [tablero Kanban de Trello](https://trello.com/b/XJy4174S/proyecto-sql-agencia-de-viajes).
 2. **Comprensión de los datos:** estudiamos el significado de cada columna de las cinco tablas.
 3. **Modelo de datos:** dibujamos el diagrama entidad-relación (ERD) en MySQL Workbench y creamos las tablas con su tipo de dato (INTEGER para identificadores, VARCHAR para textos, DECIMAL(14,2) para precios e importes, DATE, TIMESTAMP y UUID).
 4. **Limpieza:** convertimos cadenas vacías en NULL, normalizamos el texto, revisamos nulos y duplicados y comprobamos que no hubiera reservas huérfanas (sin cliente o sin tour).
@@ -97,5 +97,5 @@ travel-agency-sql/
 
 - **Fuente de datos:** https://databasesample.com/datasets/travel-agency-management-database
 - **Presentación en línea:** [Del dato al destino · Google Slides](https://docs.google.com/presentation/d/1whZTUaqWvOfF3SVFxVrFYv0wBvJfbl1v/edit?usp=sharing)
-- **Presentación en línea:** [AÑADIR ENLACE PÚBLICO A LAS DIAPOSITIVAS]
-- **Tablero Kanban (Trello):** https://trello.com/invite/b/6b017cabdd6e8466bd2f83de/ATTI06f967975783e95de0447629a48f2d268FE7B5A1/proyecto-sql-agencia-de-viajes
+- **Presentación (PDF):** [presentación/Del_dato_al_destino_Proyecto_SQL.pdf](presentación/Del_dato_al_destino_Proyecto_SQL.pdf)
+- **Tablero Kanban (Trello):** https://trello.com/b/XJy4174S/proyecto-sql-agencia-de-viajes
