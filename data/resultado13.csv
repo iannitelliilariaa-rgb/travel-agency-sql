@@ -1,0 +1,4 @@
+payment_status,total_bookings,total_amount,average_amount,percentage_of_bookings
+completed,206,361260.21,1753.69,54.21
+pending,142,262615.34,1849.40,37.37
+refunded,32,50007.96,1562.75,8.42

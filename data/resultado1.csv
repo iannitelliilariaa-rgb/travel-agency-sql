@@ -1,0 +1,21 @@
+booking_id,customer_id,country,full_name,tour_id,tour_name,destination,duration_days,tour_price,booking_date,payment_status,total_amount,booking_source
+1,92,NULL,"Amir Moreau",5,nature,Rome,19,580.28,2023-08-19,refunded,1134.57,website
+2,61,"South Africa","Jade Adams",18,itinerary,Taipei,13,922.02,2022-10-21,refunded,1613.50,website
+3,60,France,"Elena Miller",33,"odyssey adventure",Bangkok,25,2613.81,NULL,completed,3763.80,website
+4,98,India,"Nadia Meyer",27,"budget event destination",Montreal,11,1919.01,NULL,completed,113.01,"mobile app"
+5,41,NULL,"Amir Pereira",10,"escape discovery",Oslo,9,4225.02,NULL,completed,653.61,"mobile app"
+6,46,NULL,"Tomas Hughes",28,"budget culinary self-drive",Austin,17,3663.86,NULL,completed,140.31,website
+7,199,France,"Zara Carter",42,"excursion group escape",Copenhagen,11,202.83,NULL,completed,710.67,website
+8,191,Netherlands,"Ravi Torres",21,"roadtrip guided",Manila,12,385.79,NULL,completed,2268.66,"mobile app"
+9,80,NULL,"Carla Davis",45,"landmark beach",Paris,21,804.00,NULL,completed,914.70,website
+10,175,NULL,"Zoe Andersen",17,"luxury tour",Melbourne,11,402.58,NULL,pending,4727.08,website
+11,140,Denmark,"Ana Brown",34,"rural itinerary landmark",Auckland,6,1204.21,NULL,completed,243.60,website
+12,142,Mexico,"Ruby Walker",47,"expedition journey",Barcelona,10,1876.54,NULL,pending,3577.94,"mobile app"
+13,169,Hungary,"Jonas Walker",32,"culinary experience",Vancouver,7,2186.70,NULL,completed,4768.02,website
+14,47,Peru,"Nadia Miller",13,"voyage experience",Budapest,16,1802.76,NULL,pending,675.47,website
+15,170,NULL,"Mia Wright",6,"escape sojourn",Prague,12,3209.37,NULL,pending,666.21,agent
+16,104,"United Kingdom","Hana Kumar",12,excursion,Paris,1,1949.25,2022-01-01,refunded,808.43,agent
+17,129,Romania,"Chloe Gupta",13,"voyage experience",Budapest,16,1802.76,NULL,completed,935.95,website
+18,123,Italy,"Daniel Khan",45,"landmark beach",Paris,21,804.00,NULL,pending,728.34,"mobile app"
+19,174,"United States","Pedro Park",23,"exploration family",Helsinki,1,474.52,NULL,completed,2448.60,website
+20,3,Turkey,"Liam Miller",17,"luxury tour",Melbourne,11,402.58,NULL,completed,1662.77,agent

@@ -1,0 +1,3 @@
+policy_status,total_policies,average_coverage,minimum_coverage,maximum_coverage,coverage_std_deviation
+expired,50,2472.79,101.57,8784.66,2618.02
+active,59,3136.70,100.80,8590.70,2586.27

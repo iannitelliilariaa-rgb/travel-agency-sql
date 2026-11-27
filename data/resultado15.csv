@@ -1,0 +1,11 @@
+tour_id,tour_name,destination,completed_reservations,total_booking_amount,average_booking_amount
+10,"escape discovery",Oslo,9,20574.82,2286.09
+20,"adrenaline festival excursion",Bucharest,7,18633.55,2661.94
+5,nature,Rome,8,14785.69,1848.21
+47,"expedition journey",Barcelona,7,14520.55,2074.36
+29,custom,Denver,7,13931.22,1990.17
+46,historic,Boston,5,13857.21,2771.44
+45,"landmark beach",Paris,4,13118.04,3279.51
+42,"excursion group escape",Copenhagen,8,12909.59,1613.70
+17,"luxury tour",Melbourne,5,12275.99,2455.20
+27,"budget event destination",Montreal,5,11966.10,2393.22

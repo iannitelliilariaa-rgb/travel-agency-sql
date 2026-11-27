@@ -1,0 +1,4 @@
+booking_source,total_reservations,total_booking_amount,average_booking_amount,minimum_amount,maximum_amount,amount_std_deviation
+website,109,196576.34,1803.45,100.00,4984.09,1595.9703112955951
+"mobile app",51,93398.77,1831.35,103.59,4969.95,1600.272792069138
+agent,46,71285.10,1549.68,101.64,4939.22,1447.764593116001

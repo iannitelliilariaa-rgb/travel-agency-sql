@@ -1,0 +1,11 @@
+tour_id,tour_name,destination,duration_days,price,total_reservations,completed_reservations,popularity_score,price_score,completion_score,insurance_score,recommendation_score
+42,"excursion group escape",Copenhagen,11,202.83,9,8,88.89,97.53,88.89,22.22,81.05
+5,nature,Rome,19,580.28,16,8,88.89,88.46,50.00,31.25,72.36
+32,"culinary experience",Vancouver,7,2186.70,13,9,100.00,49.85,69.23,30.77,70.92
+46,historic,Boston,2,100.05,6,5,55.56,100.00,83.33,33.33,68.89
+29,custom,Denver,29,665.45,13,7,77.78,86.41,53.85,30.77,68.10
+47,"expedition journey",Barcelona,10,1876.54,12,7,77.78,57.31,58.33,50.00,64.60
+35,"destination pilgrimage",Mumbai,6,360.27,7,5,55.56,93.75,71.43,28.57,64.23
+50,cultural,Zurich,30,850.42,3,3,33.33,81.97,100.00,66.67,63.83
+17,"luxury tour",Melbourne,11,402.58,8,5,55.56,92.73,62.50,37.50,63.53
+40,nature,Copenhagen,17,1492.14,11,7,77.78,66.54,63.64,18.18,63.20

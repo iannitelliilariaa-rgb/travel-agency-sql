@@ -1,0 +1,11 @@
+customer_id,full_name,country,total_reservations,total_spent,average_booking
+132,"Hana Almeida",Hungary,4,13017.98,3254.50
+21,"Marco Clark",Colombia,3,11370.66,3790.22
+60,"Elena Miller",France,4,10564.87,2641.22
+50,"Mohamed Almeida",Australia,4,10401.91,2600.48
+56,"Ethan Smith",NULL,2,8672.68,4336.34
+123,"Daniel Khan",Italy,2,8529.84,4264.92
+124,"Lucas Dubois",Japan,3,8421.33,2807.11
+4,"Nadia Carter",Nigeria,3,8131.92,2710.64
+169,"Jonas Walker",Hungary,2,7705.75,3852.88
+80,"Carla Davis",NULL,3,7376.93,2458.98

@@ -1,0 +1,40 @@
+country,total_reservations,total_customers,average_booking_amount
+"United States",34,20,2012.20
+Hungary,22,10,1906.50
+Italy,18,10,2507.41
+Australia,14,7,1843.40
+France,14,6,2381.05
+Thailand,13,5,1468.74
+Colombia,13,5,1575.58
+"United Kingdom",12,6,1432.24
+Turkey,12,8,1581.05
+Germany,12,5,1487.89
+Canada,10,5,1914.89
+Taiwan,10,5,1517.52
+Egypt,10,4,1882.38
+Japan,10,6,1183.60
+Romania,9,3,866.38
+Nigeria,9,4,2305.38
+Greece,8,4,1906.81
+Finland,8,4,1494.12
+Spain,8,5,2185.54
+Portugal,8,4,1639.29
+Chile,6,4,974.48
+Norway,6,3,1541.14
+Peru,6,3,521.45
+Philippines,6,4,1823.94
+India,5,5,1004.71
+Austria,5,3,1216.40
+Singapore,5,3,1449.24
+Mexico,4,2,2220.86
+Poland,4,2,1380.15
+"South Africa",4,2,1193.19
+Denmark,4,2,1343.12
+"Czech Republic",4,3,2415.22
+Netherlands,3,3,1427.08
+Switzerland,3,3,1648.83
+"South Korea",2,1,195.76
+Sweden,2,2,2580.53
+Kenya,2,2,1077.45
+Ireland,1,1,2060.83
+Argentina,1,1,311.49
