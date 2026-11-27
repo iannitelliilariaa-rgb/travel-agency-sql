@@ -96,6 +96,6 @@ travel-agency-sql/
 ## Enlaces
 
 - **Fuente de datos:** https://databasesample.com/datasets/travel-agency-management-database
-- **Presentación (PDF):** [presentacion/Del_dato_al_destino_Proyecto_SQL.pdf](presentacion/Del_dato_al_destino_Proyecto_SQL.pdf)
+- **Presentación en línea:** [Del dato al destino · Google Slides](https://docs.google.com/presentation/d/1whZTUaqWvOfF3SVFxVrFYv0wBvJfbl1v/edit?usp=sharing)
 - **Presentación en línea:** [AÑADIR ENLACE PÚBLICO A LAS DIAPOSITIVAS]
 - **Tablero Kanban (Trello):** https://trello.com/invite/b/6b017cabdd6e8466bd2f83de/ATTI06f967975783e95de0447629a48f2d268FE7B5A1/proyecto-sql-agencia-de-viajes
